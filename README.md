@@ -1,4 +1,4 @@
-BASH SHELL INTERVIEW QUESTION
+BASH SHELL INTERVIEW QUESTIONS
 =============================
 
 ####[[⬆]] Shell script

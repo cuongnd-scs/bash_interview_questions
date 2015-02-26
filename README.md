@@ -7,6 +7,8 @@ BASH SHELL INTERVIEW QUESTIONS
 
 ####[[⬆]] Shell command
 
+- Phân biệt `rsync -avz local remote` với `rsync -avz local/ remote`
+
 ####[[⬆]] Trobleshoot
 
 - Một container của OpenVZ báo lỗi `Disk quota exceeded`, tuy nhiên check 

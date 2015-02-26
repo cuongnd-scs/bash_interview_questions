@@ -9,6 +9,8 @@ BASH SHELL INTERVIEW QUESTIONS
 
 - Phân biệt `rsync -avz local remote` với `rsync -avz local/ remote`
 - Làm thế nào để xóa tất cả các thư mục rỗng trong một thư mục?
+- Tổ hợp phím `^ Z` dùng để làm gì?
+- So sánh `^ C` và `^ Z`
 
 ####[[⬆]] Troubleshooting
 

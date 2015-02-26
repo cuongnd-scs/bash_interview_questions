@@ -6,4 +6,10 @@ BASH SHELL INTERVIEW QUESTIONS
 - Viết một script in ra đường dẫn tuyệt đối của chính nó
 
 ####[[⬆]] Shell command
+
+####[[⬆]] Trobleshoot
+
+- Một container của OpenVZ báo lỗi `Disk quota exceeded`, tuy nhiên check 
+bằng lệnh `df -h` thì thấy đĩa vẫn còn trống đến vài chục GB. Tình huống
+gì có thể xảy ra (hint: df -i`)
 	

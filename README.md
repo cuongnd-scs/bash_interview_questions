@@ -5,6 +5,7 @@ BASH SHELL INTERVIEW QUESTIONS
 
 - Viết một script in ra đường dẫn tuyệt đối của chính nó
 - Viết một kịch bản in ra nội dung của chính nó
+- Viết một kịch bản liệt kê có thể `reload` nội dung của chính nó
 
 ####[[⬆]] Shell command
 

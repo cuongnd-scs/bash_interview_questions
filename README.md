@@ -8,6 +8,7 @@ BASH SHELL INTERVIEW QUESTIONS
 ####[[⬆]] Shell command
 
 - Phân biệt `rsync -avz local remote` với `rsync -avz local/ remote`
+- Làm thế nào để xóa tất cả các thư mục rỗng trong một thư mục?
 
 ####[[⬆]] Troubleshooting
 

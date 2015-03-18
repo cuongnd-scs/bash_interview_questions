@@ -7,6 +7,7 @@ BASH SHELL INTERVIEW QUESTIONS
 - Viết một kịch bản in ra nội dung của chính nó
 - Viết một kịch bản có thể `reload` nội dung của chính nó
 - Viết kịch bản tương đương với lệnh `watch`
+- Viết một kịch bản hoặc một command in ra thời gian uptime tính bằng phút
 
 ####[[⬆]] Shell command
 

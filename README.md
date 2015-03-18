@@ -15,6 +15,7 @@ BASH SHELL INTERVIEW QUESTIONS
 - Làm thế nào để xóa tất cả các thư mục rỗng trong một thư mục?
 - Tổ hợp phím `^ Z` dùng để làm gì?
 - So sánh `^ C` và `^ Z`
+- Làm thế nào để chờ (`sleep`) mà không phải dùng lệnh `sleep`?
 
 ####[[⬆]] Troubleshooting
 

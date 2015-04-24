@@ -22,3 +22,10 @@ BASH SHELL INTERVIEW QUESTIONS
 bằng lệnh `df -h` thì thấy đĩa vẫn còn trống đến vài chục GB. Tình huống
 gì có thể xảy ra (hint: df -i`)
 - Khi đĩa đầy thì làm gì cho nó ... hết đầy?
+
+####[[⬆]] Questions that can kill you
+
+- Bạn biết `Phusion Passenger` là gì không? Có nhân vật nổi tiếng nào
+  đang làm cho họ?
+- Bạn đã từng đọc bài nào do `Phusion Passenger` chưa? Bài đó như thế nào
+  và bạn đã học được gì từ bài đó?

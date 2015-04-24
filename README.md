@@ -27,5 +27,5 @@ gì có thể xảy ra (hint: df -i`)
 
 - Bạn biết `Phusion Passenger` là gì không? Có nhân vật nổi tiếng nào
   đang làm cho họ?
-- Bạn đã từng đọc bài nào do `Phusion Passenger` chưa? Bài đó như thế nào
+- Bạn đã từng đọc bài nào do `Phusion Passenger` viết chưa? Bài đó như thế nào
   và bạn đã học được gì từ bài đó?

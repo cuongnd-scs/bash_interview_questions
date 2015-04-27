@@ -16,6 +16,7 @@ BASH SHELL INTERVIEW QUESTIONS
 - Tổ hợp phím `^ Z` dùng để làm gì?
 - So sánh `^ C` và `^ Z`
 - Làm thế nào để chờ (`sleep`) mà không phải dùng lệnh `sleep`?
+- Chuyện gì xảy ra khi nhấn `^ C` ([hint](http://plaban123.tumblr.com/post/117417983794/what-happens-when-you-hit-ctrl-c))
 
 ####[[⬆]] Troubleshooting
 

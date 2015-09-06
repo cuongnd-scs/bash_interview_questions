@@ -34,3 +34,4 @@ gì có thể xảy ra (hint: `df -i`)
   đang làm cho họ?
 - Bạn đã từng đọc bài nào do `Phusion Passenger` viết chưa? Bài đó như thế nào
   và bạn đã học được gì từ bài đó?
+- Làm thế nào để biết hệ thống đã chạy được bao lâu rồi? (aka `uptime`)

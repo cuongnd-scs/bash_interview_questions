@@ -22,6 +22,7 @@ tên file được định nghĩa trước (có thể dùng awk).
 - Chuyện gì xảy ra khi nhấn `^ C` ([hint](http://plaban123.tumblr.com/post/117417983794/what-happens-when-you-hit-ctrl-c))
 - Delete/Insert dòng đầu tiên của một file có 15 triệu dòng nhanh nhất có thể?
 - Làm sao xóa một thư mục chứa 2 triệu file nhanh nhất có thể.
+- Phân biệt `$@` và `$*`.
 
 ####[[⬆]] Troubleshooting
 

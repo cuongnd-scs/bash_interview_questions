@@ -10,7 +10,8 @@ BASH SHELL INTERVIEW QUESTIONS
 - Viết một kịch bản hoặc một command in ra thời gian uptime tính bằng phút
 - Viết một kịch bản chia 1 file lớn thành nhiều file nhỏ kiểu line-by-line. Ví dụ có
 một file 1000K dòng không thể mở lên, chia là 10 file (hoặc một số file bất kỳ). Với
-tên file được định nghĩa trước (có thể dùng awk). 
+tên file được định nghĩa trước (có thể dùng awk).
+- Viết một vòng lặp, lặp qua một loạt các con số được khai báo bởi một biến. Ví dụ `for x in "$i"..."$j"` 
 
 ####[[⬆]] Shell command
 
@@ -23,6 +24,8 @@ tên file được định nghĩa trước (có thể dùng awk).
 - Delete/Insert dòng đầu tiên của một file có 15 triệu dòng nhanh nhất có thể?
 - Làm sao xóa một thư mục chứa 2 triệu file nhanh nhất có thể.
 - Phân biệt `$@` và `$*` với`"$@"` và `"$*"`.
+- Phân biệt `exit 0` và `exit 1`.
+- Sự khác nhau giữa `{}` và `()`, chuyện gì xảy ra nếu có `exit 0`?
 
 ####[[⬆]] Troubleshooting
 

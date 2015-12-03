@@ -46,3 +46,5 @@ gì có thể xảy ra (hint: `df -i`)
 #### [[⬆]] Funny
 
 1. Làm sao để custom màu sắc của lệnh `ls`
+2. Chuyện gì xảy ra khi chạy lệnh `yes >> /dev/null`
+3. Chuyện gì xảy ra khi chạy lệnh `cat /dev/urandom > /dev/null`, phân biệt kết quả với lệnh [2]

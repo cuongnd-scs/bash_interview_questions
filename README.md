@@ -42,3 +42,7 @@ gì có thể xảy ra (hint: `df -i`)
 2. Bạn đã từng đọc bài nào do `Phusion Passenger` viết chưa? Bài đó như thế nào
   và bạn đã học được gì từ bài đó?
 3. Làm thế nào để biết hệ thống đã chạy được bao lâu rồi? (aka `uptime`)
+
+#### [[⬆]] Funny
+
+1. Làm sao để custom màu sắc của lệnh `ls`

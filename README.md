@@ -26,7 +26,8 @@ tên file được định nghĩa trước (có thể dùng awk).
 9. Phân biệt `$@` và `$*` với`"$@"` và `"$*"`.
 10. Phân biệt `exit 0` và `exit 1`.
 11. Sự khác nhau giữa `{}` và `()`, chuyện gì xảy ra nếu có `exit 0`?
-12 Chuyển đổi một chuỗi thành chữ HOA hoặc chữ thường. Ví dụ `string="Hello Ajinomoto"` thành `HELLO AJINOMOTO` hoặc `hello ajinomoto`.
+12. Chuyển đổi một chuỗi thành chữ HOA hoặc chữ thường. Ví dụ `string="Hello Ajinomoto"` thành `HELLO AJINOMOTO` hoặc `hello ajinomoto`.
+13. Lấy biến môi trường của một process như thế nào?
 
 ####[[⬆]] Troubleshooting
 

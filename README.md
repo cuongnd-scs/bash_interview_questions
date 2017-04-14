@@ -1,7 +1,7 @@
 BASH SHELL INTERVIEW QUESTIONS
 =============================
 
-####[[⬆]] Shell script
+#### [[⬆]] Shell script
 
 1. Viết một kịch bản in ra đường dẫn tuyệt đối của chính nó
 2. Viết một kịch bản in ra nội dung của chính nó
@@ -13,7 +13,7 @@ một file 1000K dòng không thể mở lên, chia là 10 file (hoặc một s�
 tên file được định nghĩa trước (có thể dùng awk).
 7. Viết một vòng lặp, lặp qua một loạt các con số được khai báo bởi một biến. Ví dụ `for x in "$i"..."$j"`
 
-####[[⬆]] Shell command
+#### [[⬆]] Shell command
 
 1. Phân biệt `rsync -avz local remote` với `rsync -avz local/ remote`
 2. Làm thế nào để xóa tất cả các thư mục rỗng trong một thư mục?
@@ -29,14 +29,14 @@ tên file được định nghĩa trước (có thể dùng awk).
 12. Chuyển đổi một chuỗi thành chữ HOA hoặc chữ thường. Ví dụ `string="Hello Ajinomoto"` thành `HELLO AJINOMOTO` hoặc `hello ajinomoto`.
 13. Lấy biến môi trường của một process như thế nào?
 
-####[[⬆]] Troubleshooting
+#### [[⬆]] Troubleshooting
 
 1. Một container của OpenVZ báo lỗi `Disk quota exceeded`, tuy nhiên check
 bằng lệnh `df -h` thì thấy đĩa vẫn còn trống đến vài chục GB. Tình huống
 gì có thể xảy ra (hint: `df -i`)
 2. Khi đĩa đầy thì làm gì cho nó ... hết đầy?
 
-####[[⬆]] Questions that can kill you
+#### [[⬆]] Questions that can kill you
 
 1. Bạn biết `Phusion Passenger` là gì không? Có nhân vật nổi tiếng nào
   đang làm cho họ?
